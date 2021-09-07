@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thoralmighty
 - 👀 I’m interested in APIs, game design, bot development, modding among other things
 - 🌱 I’m currently learning modding [Vintage Story](https://www.vintagestory.at/)
-- 💞️ I’m looking to collaborate possibly on other mods
 
 <!---
 thoralmighty/thoralmighty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
