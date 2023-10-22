@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thoralmighty
 - 👀 I’m interested in APIs, game design, bot development, modding among other things
-- 🌱 I was last seen modding [Vintage Story](https://www.vintagestory.at/)
+- 🌱 I was last seen modding [Vintage Story](https://www.vintagestory.at/) (ModDB: [Candid Emotions](https://mods.vintagestory.at/show/mod/3275))
 
 <!---
 thoralmighty/thoralmighty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
